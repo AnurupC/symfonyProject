@@ -1,0 +1,3 @@
+#index:
+#    path: /
+#z    controller: App\Controller\DefaultController::index
